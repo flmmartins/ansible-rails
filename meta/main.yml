@@ -1,0 +1,14 @@
+---
+galaxy_info:
+  author: Fernanda Martins
+  description: Clone repo, configure rails as of a bundle and run the server
+  min_ansible_version: 1.5
+  platforms:
+  - name: CentOS
+    versions:
+    - 6
+  categories:
+  - development
+  - packaging
+  - system
+  - web
